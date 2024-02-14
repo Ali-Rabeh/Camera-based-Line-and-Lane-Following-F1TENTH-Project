@@ -1,0 +1,8 @@
+/build/*
+/install/*
+/log/*
+/sync_map/*
+/async_map/*
+/ftm_halle_map/*
+/Trash/*
+/ros_bag_backup/*
